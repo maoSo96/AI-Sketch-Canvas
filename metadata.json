@@ -1,0 +1,5 @@
+{
+  "name": "AI Sketch Canvas V2",
+  "description": "An interactive canvas to create sketches with images and text. Use AI to transform your compositions into stunning artwork based on your layout.",
+  "requestFramePermissions": []
+}
